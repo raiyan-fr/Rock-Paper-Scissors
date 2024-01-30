@@ -24,5 +24,7 @@ The main script (`script.js`) contains functions for generating the computer's c
 
 Feel free to use and modify this code to create your own interactive Rock, Paper, Scissors game in the browser.
 
+## Author
 
+- [@raiyan-fr](https://www.github.com/raiyan-fr)
 
